@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Product" language="ja" table="x_snc_stock_manage_product">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Product</label>
+            <language>ja</language>
+            <name>x_snc_stock_manage_product</name>
+            <plural>Products</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ryoichi.yaochi</sys_created_by>
+            <sys_created_on>2016-11-01 08:41:50</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>c56b884edbba22003f507a1ebf96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Product</sys_name>
+            <sys_package display_value="Stock Management" source="x_snc_stock_manage">6e4b844edbba22003f507a1ebf9619d7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Stock Management">6e4b844edbba22003f507a1ebf9619d7</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_stock_manage_product__ja</sys_update_name>
+            <sys_updated_by>ryoichi.yaochi</sys_updated_by>
+            <sys_updated_on>2016-11-01 08:41:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
